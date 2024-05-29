@@ -1,6 +1,6 @@
 {
-    "name": "bingo",
-    "short_name": "bingo",
+    "name": "Bingo",
+    "short_name": "Bingo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
